@@ -17,3 +17,4 @@ Git has a mutable index called stage
 新增的内容
 新增的内容
 新增的内容
+Creating a new branch is quick.
